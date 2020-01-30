@@ -13,6 +13,3 @@ class Mechanic implements PrepareInterface{
     }
 }
 
-class Bicycle{
-
-}
