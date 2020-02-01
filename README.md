@@ -1,5 +1,7 @@
 # FKThinkDesign
 
+Each Branch Represents each Chapter and by changing the branch you can see evolution of code through the chapters.<br>
+
 Tried To make it as similar to java implementation.
 ```
 Design Guidlines
